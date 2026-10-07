@@ -29,6 +29,7 @@ Tener instalado Python 3.8+ y Git.
 Abre tu terminal (PowerShell, CMD o Git Bash) y ejecuta:
 
 git clone https://github.com/SantyChQu/ProyectoDataScience.git
+
 cd TU_REPOSITORIO
 
 2. Crear y Activar un Entorno Virtual
