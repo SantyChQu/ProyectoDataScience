@@ -38,7 +38,7 @@ Sección 1: Librerías, Configuración e Importación del Dataset
 
 #Imports y configuración
 import warnings
-
+from IPython.display import display
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -52,7 +52,7 @@ print("seaborn   ", sns.__version__)
 """SECCION 2: LEEMOS LA INFORMACION GENERAL DEL DATASET, CANTIDAD DE FILAS, COLUMNAS"""
 
 # Cargar el archivo
-df = pd.read_csv("/content/SAT-MV-BU.csv")
+df = pd.read_csv("./SAT-MV-BU.csv")
 
 
 print("TAMAÑO DEL DATASET")

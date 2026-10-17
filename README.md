@@ -1,3 +1,9 @@
+ACLARACION INICIAL:
+
+Para una mejor experiencia se recomienda abrir el archivo "ipynb" en Google Collab,
+ademas que permite tener otras funcionalidades que ejecutando en un entorno con Vscode no permite
+
+
 Predictor y Análisis de Siniestralidad Vial en Argentina (2017–2024)
 
 Este proyecto analiza los microdatos de siniestralidad vial en la República Argentina entre los años 2017 y 2024. El objetivo principal es construir un modelo de Clasificación en Data Science para predecir la modalidad o tipo de un hecho vial en función de variables contextuales como el clima, la franja horaria y el tipo de lugar.
