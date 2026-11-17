@@ -11,7 +11,7 @@ Este proyecto analiza los microdatos de siniestralidad vial en la República Arg
 
 Los datos son recopilados a través del **Sistema de Alerta Temprana (SAT)**, perteneciente al **Sistema Nacional de Información Criminal (SNIC)** del Ministerio de Seguridad de la Nación. Corresponden a informes sobre personas fallecidas a causa de hechos de tránsito en Argentina.
 
-- **Fuente de Datos:** [datos.gob.ar - Muertes Viales SAT](https://datos.gob.ar/) / Servidor oficial SNIC (`https://cloud-snic.minseg.gob.ar/Bases/SAT/MV/SAT-MV-BU.csv`)
+- **Fuente de Datos:** [datos.gob.ar - Muertes Viales SAT](https://datos.gob.ar/dataset/muertes-viales-sistema-de-alerta-temprana-estadisticas-criminales-en-la-republica-argentina) / Servidor oficial SNIC (`https://cloud-snic.minseg.gob.ar/Bases/SAT/MV/SAT-MV-BU.csv`)
 - **Dataset utilizado:** `SAT-MV-BU.csv` (con descarga automática integrada en el notebook si no está presente localmente)
 
 ---

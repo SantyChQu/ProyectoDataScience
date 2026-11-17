@@ -8,7 +8,7 @@ Este repositorio contiene el desarrollo de un proyecto de **Data Science** enfoc
 
 Los análisis se basan en los registros oficiales del **Sistema de Alerta Temprana (SAT)**, perteneciente al **Sistema Nacional de Información Criminal (SNIC)** del Ministerio de Seguridad de la Nación (`SAT-MV-BU.csv`)[cite: 2].
 
-- **Portal oficial:** [datos.gob.ar - Muertes Viales SAT](https://datos.gob.ar/)
+- **Portal oficial:** [datos.gob.ar - Muertes Viales SAT](https://datos.gob.ar/dataset/muertes-viales-sistema-de-alerta-temprana-estadisticas-criminales-en-la-republica-argentina)
 - **Diccionario de variables:** Incluido en la raíz del proyecto como `Manual de usuario Base SAT-MV_2024.pdf`[cite: 2].
 
 ---
